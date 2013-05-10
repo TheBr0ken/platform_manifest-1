@@ -329,6 +329,7 @@
   <project path="packages/apps/Torch" name="packages_apps_torch" remote="th" revision="jb-mr1" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" revision="refs/tags/android-4.2.2_r1.1" />
+  <project path="packages/apps/XenonWallpapers" name="android_packages_apps_XenonWallpapers" remote="th" revision="jb-mr1" />
   <project path="packages/experimental" name="platform/packages/experimental" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/inputmethods/LatinIME" name="AOKP/packages_input_LatinIME" remote="aokp" revision="jb-mr1" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" revision="refs/tags/android-4.2.2_r1.1" />
